@@ -1,1 +1,22 @@
+All sigs here are updated and from K2 TEAM, K2 MASTER and K2_PLU
 
+
+ProcessEvent: 40 55 56 57 41 54 41 55 41 56 41 57 48 81 EC ? ? ? ? 48 8D 6C 24 ? 48 89 9D ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C5 48 89 85 ? ? ? ? 8B 41 0C 45 33 F6 3B 05 ? ? ? ? 4D 8B F8 48 8B F2 4C 8B E1 41 B8 ? ? ? ? 7D 2A
+
+CurlEasySetOpt: 89 54 24 10 4C 89 44 24 18 4C 89 4C 24 20 48 83 EC 28 48 85 C9 75 08 8D 41 2B 48 83 C4 28 C3 4C
+
+CurlSetOpt: 48 89 5C 24 08 48 89 6C 24 10 48 89 74 24 18 57 48 83 EC 30 33 ED 49 8B F0 48 8B D9
+
+GoObject: 48 8B 05 ? ? ? ? 48 8B 0C C8 48 8B 04 D1
+
+FnFree: 48 85 C9 0F 84 ? ? ? ? 53 48 83 EC 20 48 89 7C 24 30 48 8B D9 48 8B 3D ? ? ? ? 48 85 FF 0F 84 ? ? ? ? 48 8B 07 4C 8B 40 30 48 8D 05 ? ? ? ? 4C 3B C0
+
+ProjectWorldToScreen: E8 ? ? ? ? 48 8B 5C 24 ? 41 88 07 48 83 C4 30
+
+GetBoneMatrix: E8 ? ? ? ? 48 8B 47 30 F3 0F 10 45
+
+Uworld: 48 89 05 ? ? ? ? 48 8B 4B 78 
+
+LineOfSight : 48 8B C4 55 53 56 57 41 54 41 55 41 56 48 8D 68 A8 48 81 EC 20 01 00 00 0F 29 70 B8 
+
+GetObjectNameByIndex : 48 8B C4 48 89 58 20 55 56 57 41 54 41 55 41 56 41 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 0F 29 70 B8 0F 29 78 A8 44 0F 29 40 ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 45 20 45 8A E9
