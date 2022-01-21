@@ -1,0 +1,24 @@
+creds to orangekid for this
+
+std::string GetNameFromFName(int key)
+{
+    uint32_t ChunkOffset = (uint32_t)((int)(key) >> 16);
+    uint16_t NameOffset = (uint16_t)key;
+ 
+    uint64_t NamePoolChunk = RPM<uint64_t>((uintptr_t)moduleBase + 0xB5DA400 + ((ChunkOffset + 2) * 8)); // ERROR_NAME_SIZE_EXCEEDED
+   
+                result = v10++ + v9;
+                v7 += result;
+                *v2 ^= v7;
+                ++v2;
+            } while (v10 < v4);
+        }    
+ 
+        buff[nameLength] = '\0';
+        return std::string(buff);
+    }
+    else
+    {
+        return "";
+    }
+}
