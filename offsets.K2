@@ -28,7 +28,7 @@ creds to me for printing the uworld correctly (android was subtracting the image
   FortWeapon.LastFireTime                              ->   0x9EC
   FortPawn.bIsDBNO                                     ->   0x572
   FortPawn.bIsDying                                    ->   0x548
-  FortPlayerStateAthena.TeamIndex                      ->   0xF30
+  FortPlayerStateAthena.TeamIndex                      ->   0xF50
   FortPickup.PrimaryPickupItemEntry                    ->   0x2A8
   FortItemDefinition.DisplayName                       ->   0x88
   FortItemDefinition.Tier                              ->   0x6C
@@ -45,7 +45,7 @@ creds to me for printing the uworld correctly (android was subtracting the image
   FortRangedWeaponStats.RecoilHoriz                    ->   0x21C
   FortRangedWeaponStats.RecoilVert                     ->   0x20C
   FortRangedWeaponStats.RecoilDownsightsMultiplier     ->   0x238
-  FortPlayerPawnAthena.ReviveFromDBNOTime              ->   0x3768
-  FortPlayerPawnAthena.bADSWhileNotOnGround            ->   0x3E61
+  FortPlayerPawnAthena.ReviveFromDBNOTime              ->   0x3788
+  FortPlayerPawnAthena.bADSWhileNotOnGround            ->   0x3E81
   FortWeapon.WeaponReloadMontage                       ->   0x12A0
   FortWeapon.ReloadAnimation                           ->   0x1270
