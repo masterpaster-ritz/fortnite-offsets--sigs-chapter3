@@ -5,7 +5,7 @@ also creds to 4u4play.com/Zmaster for giving me the getnamebyindex so that I can
 creds to me for printing the uworld correctly (android was subtracting the image base and I changed it to subtract the module so It can properly print the uworld)
 
 
-  UWorld                                               ->   0xb59bd30
+  UWorld                                               ->   0xb613240
 
   World.Levels                                         ->   0x148
   World.PersistentLevel                                ->   0x30
